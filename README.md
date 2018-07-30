@@ -6,7 +6,6 @@ This folder contains two projects -
 * It's a nice starting point for whatever blockcahin you have
 * In addition, check the following:-
 	* My blockchain playground - https://github.com/atemysemicolon/blockchainplayground
-	* The version 2 of the playground developed with a colleague - https://bitbucket.org/doetoe/blockchain
 
 
 ## Resources / Links
